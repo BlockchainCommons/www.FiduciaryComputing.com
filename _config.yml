@@ -1,0 +1,24 @@
+title: Single Page Website
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+description: >- 
+  Template for a single-page website using GitHub-hosted static
+  Jekyll pages and the Minimal-Mistakes remote-theme.
+name: Copyright Holder
+include:
+  - _pages
+plugins:
+  - jekyll-include-cache
+atom_feed:
+  hide: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      masthead: false
+      copyright-notice: false
+      header:
+        overlay_color: "#333"
