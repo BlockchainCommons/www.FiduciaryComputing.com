@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: Fiduciary Computing
+og_image: /assets/images/sailing_digital_sea_3_2.jpg
 ---
 
 > ***Fiduciary Computing*** is a transformative people-first paradigm to empower individuals and families to command their digital destiny and uphold their human dignity online. Actively championing their interests in personal security, privacy, data protection and resilience, Fiduciary Computing cultivates an engaging ecosystem for proactive cooperation with each other, other collectives, and platforms. In doing so, it bolsters autonomy and rights while significantly reducing vulnerability in the digital realm.
