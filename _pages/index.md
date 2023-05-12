@@ -7,7 +7,7 @@ title: Fiduciary Computing
 
 ## Your Digital Journey
 
-![Sailing Digital Sea](/assets/images/sailing_digital_sea_3_2.jpg){: style="float:right; padding:16px;" }
+![Sailing Digital Sea](/assets/images/sailing_digital_sea_3_2.jpg){: style="float:right; size:50%; padding:16px;" }
 
 Picture yourself aboard a grand ship sailing the vast, tumultuous digital ocean. Despite being the rightful owner, you are not the captain, but a passenger. The ship's course, the ports of call, even the choice of companion vessels are dictated not by you, but by distant corporations. These unseen gatekeepers exact a continuous "toll" from you, not always in gold, but often in the currency of your personal data or by compelling you to relinquish your rights.
 
