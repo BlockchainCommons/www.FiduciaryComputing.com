@@ -18,11 +18,13 @@ Reflect on the times you've felt adrift in your own digital vessel, with unchose
 
 ### The Beacon of Fiduciary Computing
 
-Fiduciary Computing is a lighthouse in the digital storm, guiding you to take the helm of your digital journey. Drawing its ethos from the sacred fiduciary duties in medicine, law, and financial advisory services, Fiduciary Computing mandates that digital tools and services prioritize you — the individuals and families — above all else. It's the compass that directs your digital journey, actively championing your interests in personal security, privacy, data protection, and resilience.
+Fiduciary Computing is a lighthouse in the digital storm, guiding you to take the helm of your digital journey. 
 
-### Your Device, Your First Mate
+Drawing its name from the concept of a fiduciary in Agency Law and the sacred duties in medicine, law, and financial advisory services, it proposes a new standard for how our digital tools and services should operate. Under Agency Law, a fiduciary is an entity that owes to another the duties of good faith, trust, confidence, and candor, and must put the other's interests before their own. Fiduciary Computing mandates that digital tools and services prioritize you — the individuals and families — above all else. It's the compass that directs your digital journey, actively championing your interests in personal security, privacy, data protection, and resilience.
 
-Your smartphone is no longer merely a device — it's your first mate, your advocate. This device becomes a skilled navigator in the treacherous marketplace of the digital ocean. It fosters cooperation with other digital captains, pooling collective bargaining power to secure even better terms and services, just as a flotilla of ships commands more respect than a lone vessel.
+### Your Devices, Your Crew
+
+Your personal devices and cryptographic services – from your smartphone to your laptop, from your smartwatch to your digital wallet – are no longer merely tools. They transform into your crew, your advocates in the digital realm. Together, they become skilled navigators in the often treacherous marketplace of the digital ocean. They foster cooperation with other digital captains, pooling collective bargaining power to secure even better terms and services. It's akin to how a flotilla of ships commands more respect than a lone vessel navigating the high seas. In this grand fleet of self-sovereign devices and services, you are the commander, steering towards a future where digital autonomy is not just an ideal, but a reality.
 
 ### Uniting Digital Captains
 
