@@ -4,7 +4,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "d
 description: >- 
   Template for a single-page website using GitHub-hosted static
   Jekyll pages and the Minimal-Mistakes remote-theme.
-name: Copyright Holder
+name: Christopher Allen
 include:
   - _pages
 plugins:
@@ -19,6 +19,5 @@ defaults:
     values:
       layout: single
       masthead: false
-      copyright-notice: false
       header:
         overlay_color: "#333"
