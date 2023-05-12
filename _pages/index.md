@@ -1,43 +1,28 @@
 ---
 permalink: /
-title: Single-Page Website
+title: Fiduciary Computing
 ---
 
-# Per nutrit frugilegas sibi iuvatis abit Sabina
+## Your Digital Journey
 
-## Auras barba
+Picture yourself aboard a grand ship sailing the vast digital ocean. Despite being the rightful owner, you are not the captain, but a passenger. The ship's course, the ports of call, and even the choice of companion vessels are dictated not by you, but by distant corporations. They exact a continuous "toll" from you, not always in gold, but often in your personal data or by compelling you to relinquish your rights.
 
-Lorem markdownum vento resumptis Nereides. Ignotissima solet his ipsum et
-Gorgone ad regem Aethionque genibus pendere frementis verberat. Manum imagine
-mihi eandem sacri: clamant quis attonuit sustulit incipit carmine facinus senes
-rabiem comas legem venae; et.
+### The Promise of Fiduciary Computing
 
-    batch_real *= checksum_edutainment(loadWireless);
-    var bittorrent = pipeline_installer_adsl;
-    metalMemory = trackball_hypertext(outbox, mac) + text(code_windows);
-    botnetArray(down_compression_fios);
+Fiduciary Computing is the wind of change that elevates you from passenger to captain, putting you firmly at the helm of your digital journey. Drawing its ethos from professions like law and medicine, where fiduciary duties are sacred, Fiduciary Computing demands that digital tools and services serve you, the individual user, as their primary responsibility.
 
-Alvo erat Atlantis *remotis depressaque palmis*: metuque ora, Iove, Calydonius
-diligit dulcia: sedebat formamque limen, esse. Ore vel cui placuisse orbum.
+### From Passenger to Captain
 
-## Qui hoc pietasque longa sic nisi vigore
+Reflect on the times you've felt adrift in your own digital vessel, with tech giants acting as unchosen captains, steering your course and dictating the toll. Fiduciary Computing empowers you to become the captain of your digital ship, giving you the autonomy to chart your course, control your personal data, and navigate digital interactions free of an unending toll.
 
-Senili simul [spectandique nostris](http://vela.org/lectodryadas.html) virgam.
-Manus [modo incursat](http://inmemores.org/) Ecce est favistis, cum **alii**
-metu, quam nurus quod, multifori, iacet sibi. Occidat hunc fatemur quod velis,
-libera vidit plagamque rettulit. Laedunt multaque, venit, dantque patrias suae
-una gerunt. Neque Actaeas succincta conplerunt tamen.
+### Your Device, Your First Mate
 
-[Pro](http://www.et.com/) mittunt deum ponere vittae neganda Nepheleque ait
-**nunc**, forcipe Bacchi, et vidit. Non nec auras deos, est Bacchi, meminisse
-nulloque in ramus. Ante qui, nempe Maia ore necem vestra ramis super quis
-oblitus nobis canor nemus!
+Imagine your smartphone as more than just a device—it's your first mate, your advocate. This aspect of Fiduciary Computing, known as "Agorical Computing", transforms your device into a skilled negotiator in the digital marketplace of the high seas. It enables cooperation with other individuals, pooling your collective bargaining power to negotiate even better terms, just as a flotilla of ships might command more respect than a lone vessel.
 
-- Absens fore
-- In ferro
-- Herba omnique sacra detegit
+### Beyond Individual Empowerment
 
-Ulmo speciem cibique a Agenore femina vobisque matremque bracchiaque inde Thesea
-ubi simillima genuum Scythiam! Motibus Lycetum, a fluctusque ensis spemque:
-tamen eque adspice quod non. Virgineo Lelegas nec quibus cultrosque dimovit, si
-quantum parari.
+Fiduciary Computing champions a cooperative digital ecosystem, where we, as digital captains, can band together to protect our interests against more formidable adversaries.
+
+### The Call to Action
+
+Fiduciary Computing is not just a concept—it's a movement. It's a call to action to transform our digital seascape to prioritize the user. It's the promise of a future where technology serves us unconditionally, where our digital journeys are not dictated by distant captains, but shaped by our choices and needs. Most importantly, it's a future where technology remembers its ultimate duty: to serve and protect you, ensuring the helm of your digital ship always remains in your hands.
